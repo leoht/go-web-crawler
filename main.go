@@ -23,6 +23,7 @@ func main() {
 		log.Fatal(err)
 	}
 
+	// Also save to a file
 	jsonBytes, _ := json.Marshal(sitemap)
 	_ = ioutil.WriteFile("sitemap.json", jsonBytes, 0644)
 

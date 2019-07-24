@@ -67,6 +67,9 @@ func NewCrawler(rootDomain string) Crawler {
 	}
 }
 
+// Start the crawling process
+// Launches goroutines for each page to crawl and get pages through a channel
+// Returns when there's no more new pages to crawl
 func (c Crawler) CrawlWebsite() (*Sitemap, error) {
 	linksChan := make(chan string)
 	pageChan := make(chan Page)
@@ -126,6 +129,8 @@ func crawlPage(url string, linksChan chan string, pageChan chan Page, pageOkChan
 	pageChan <- NewPageWithAssets(url, assets)
 }
 
+// Tokenization and parsing of HTML elements
+// for assets and links
 func tokenizeAndCrawlElements(body io.Reader, linksChan chan string, sitemap *Sitemap) (assets []PageAsset, newLinksFound int) {
 	tokenizer := html.NewTokenizer(body)
 	assets = make([]PageAsset, 0)
