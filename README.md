@@ -1,5 +1,7 @@
 # Go web crawler
 
+Very simple crawler that uses goroutines to parse web pages and get the list of pages with their static assets (stylesheets, scripts and images).
+
 To install dependencies:
 ```
 $ brew install dep
