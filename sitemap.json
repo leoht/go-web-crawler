@@ -1,0 +1,739 @@
+{
+  "pages": [
+    {
+      "url": "http://leohetsch.com",
+      "assets": [
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/prism.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/poole.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/icon.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/syntax.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/oscar.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "//fonts.googleapis.com/css?family=Lato:100,300,300italic"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/gallery.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/prism.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/oscar.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/prism/0.0.1/prism.min.js"
+        }
+      ]
+    },
+    {
+      "url": "http://leohetsch.com/about",
+      "assets": [
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/prism.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/poole.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/icon.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/syntax.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/oscar.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "//fonts.googleapis.com/css?family=Lato:100,300,300italic"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/gallery.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/prism.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/oscar.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/prism/0.0.1/prism.min.js"
+        }
+      ]
+    },
+    {
+      "url": "http://leohetsch.com/page/2",
+      "assets": [
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/prism.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/poole.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/icon.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/syntax.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/oscar.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "//fonts.googleapis.com/css?family=Lato:100,300,300italic"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/gallery.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/prism.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/oscar.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/prism/0.0.1/prism.min.js"
+        }
+      ]
+    },
+    {
+      "url": "http://leohetsch.com/tag/ruby",
+      "assets": [
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/prism.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/poole.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/icon.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/syntax.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/oscar.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "//fonts.googleapis.com/css?family=Lato:100,300,300italic"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/gallery.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/prism.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/oscar.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/prism/0.0.1/prism.min.js"
+        }
+      ]
+    },
+    {
+      "url": "http://leohetsch.com/tag/docker",
+      "assets": [
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/prism.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/poole.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/icon.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/syntax.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/oscar.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "//fonts.googleapis.com/css?family=Lato:100,300,300italic"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/gallery.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/prism.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/oscar.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/prism/0.0.1/prism.min.js"
+        }
+      ]
+    },
+    {
+      "url": "http://leohetsch.com/tag/golang",
+      "assets": [
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/prism.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/poole.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/icon.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/syntax.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/oscar.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "//fonts.googleapis.com/css?family=Lato:100,300,300italic"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/gallery.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/prism.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/oscar.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/prism/0.0.1/prism.min.js"
+        }
+      ]
+    },
+    {
+      "url": "http://leohetsch.com/demystifying-ruby-singleton-classes",
+      "assets": [
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/prism.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/poole.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/icon.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/syntax.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/oscar.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "//fonts.googleapis.com/css?family=Lato:100,300,300italic"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/gallery.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/prism.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/oscar.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/prism/0.0.1/prism.min.js"
+        }
+      ]
+    },
+    {
+      "url": "http://leohetsch.com/go-postgresql-and-elasticsearch-in-docker",
+      "assets": [
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/prism.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/poole.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/icon.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/syntax.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/oscar.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "//fonts.googleapis.com/css?family=Lato:100,300,300italic"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/gallery.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/prism.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/oscar.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/prism/0.0.1/prism.min.js"
+        }
+      ]
+    },
+    {
+      "url": "http://leohetsch.com/scaling-with-haproxy-and-ec2-autoscaling-groups",
+      "assets": [
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/prism.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/poole.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/icon.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/syntax.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/oscar.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "//fonts.googleapis.com/css?family=Lato:100,300,300italic"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/gallery.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/prism.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/oscar.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/prism/0.0.1/prism.min.js"
+        }
+      ]
+    },
+    {
+      "url": "http://leohetsch.com/include-vs-prepend-vs-extend",
+      "assets": [
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/prism.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/poole.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/icon.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/syntax.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/oscar.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "//fonts.googleapis.com/css?family=Lato:100,300,300italic"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/gallery.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/prism.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/oscar.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/prism/0.0.1/prism.min.js"
+        }
+      ]
+    },
+    {
+      "url": "http://leohetsch.com/the-next-programming-language-you-should-learn",
+      "assets": [
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/prism.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/poole.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/icon.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/syntax.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/oscar.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "//fonts.googleapis.com/css?family=Lato:100,300,300italic"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/gallery.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/prism.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/oscar.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/prism/0.0.1/prism.min.js"
+        }
+      ]
+    },
+    {
+      "url": "http://leohetsch.com/using-protocol-buffers-in-your-apis",
+      "assets": [
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/prism.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/poole.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/icon.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/syntax.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/oscar.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "//fonts.googleapis.com/css?family=Lato:100,300,300italic"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/gallery.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/prism.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/oscar.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/prism/0.0.1/prism.min.js"
+        }
+      ]
+    },
+    {
+      "url": "http://leohetsch.com/create-a-minimal-lisp-like-interpreter-in-c",
+      "assets": [
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/prism.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/poole.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/icon.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/syntax.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/oscar.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "//fonts.googleapis.com/css?family=Lato:100,300,300italic"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/gallery.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/prism.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/oscar.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/prism/0.0.1/prism.min.js"
+        }
+      ]
+    },
+    {
+      "url": "http://leohetsch.com/multi-layer-cache-php-redis-apc",
+      "assets": [
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/prism.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/poole.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/icon.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/syntax.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/oscar.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "//fonts.googleapis.com/css?family=Lato:100,300,300italic"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/gallery.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/prism.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/oscar.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/prism/0.0.1/prism.min.js"
+        }
+      ]
+    },
+    {
+      "url": "http://leohetsch.com/hello-world",
+      "assets": [
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/prism.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/poole.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/icon.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/syntax.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "/assets/css/oscar.css?v=a181bc7871"
+        },
+        {
+          "type": "stylesheet",
+          "url": "//fonts.googleapis.com/css?family=Lato:100,300,300italic"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/gallery.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/prism.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "/assets/js/oscar.js?v=a181bc7871"
+        },
+        {
+          "type": "script",
+          "url": "https://cdnjs.cloudflare.com/ajax/libs/prism/0.0.1/prism.min.js"
+        }
+      ]
+    }
+  ]
+}
